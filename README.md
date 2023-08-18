@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aet37 (Andrew Toader)
 - 👀 I’m interested in Medicine and Medical Imaging
-- 🌱 I’m currently learning Image Analysis/Signals Processing
+- 🌱 I’m currently learning Medicine, Image Analysis/Signals Processing
 - 📫 How to reach me: andrew (dot) toader at pitt.edu
 
 <!---
